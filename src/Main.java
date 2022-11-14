@@ -10,9 +10,9 @@ public class Main {
         double[] numbers = {1.57, 7.654, 9.986};
 
         long[] numberLong = new long[3];
-        numberLong[0] = 333;
-        numberLong[1] = 4444;
-        numberLong[2] = 55555;
+        numberLong[0] = 333L;
+        numberLong[1] = 4444L;
+        numberLong[2] = 55555L;
 
         System.out.println();
 
